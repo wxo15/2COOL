@@ -20,5 +20,5 @@ There are two ways to configure the environment. One is to use the provided pre-
 
 * PA2 - Lexical Analysis: **Done**
 * PA3 - Parsing: **Done**
-* PA4 - Semantic Analysis: **Not done**
+* PA4 - Semantic Analysis: **Done**
 * PA5 - Code Generation: **Not done**
